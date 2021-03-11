@@ -24,8 +24,3 @@ This repository consist of end to end projects on data science completed by me f
 * Converting all texts into vectors with the help of **Count Vector, TF-IDF, and Word2Vec**.  
 * Building ML models as well as Neural Networks using **Tensorflow 2.0** libraray
 * Checking the model performances with various metrics.
-
-### Contents
-
-### Classification
-* **Projects**
